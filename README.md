@@ -2,7 +2,7 @@
 
 **Earn While You Burn — Verifying fitness, preserving privacy, rewarding effort!**
 
-**CashFit.ai** is an innovative **AI-driven fitness verification platform** that empowers users to **earn rewards by completing fitness challenges** verified through **AI form detection, human consensus, and blockchain-based cryptographic proofs** — all while maintaining **privacy, transparency, and fairness** via a **public blockchain ledger**.
+**CashFit.ai** is an innovative **AI-driven fitness platform** that empowers users to **earn rewards by completing fitness challenges** verified through **AI form detection, human consensus, and blockchain-based cryptographic proofs** — all while maintaining **privacy, transparency, and fairness** via a **public blockchain ledger**.
 
 ## 🚀 **Demo**
 
