@@ -221,7 +221,7 @@ Once verified, workout data cannot be altered or deleted, ensuring the permanenc
 
 ### 🛡️ Zero-Knowledge Proof
 ```
-zk-snark: 0x8fb4c3e7291b5f9d2b49e6a8dc35f107b498c3a209cb4ce918e0523895603a5fc7d9ea24b10f5e682c98dcb35c4a28e16dcf86ea321b954e7ca8612c9c895d4a31b58ac97d0e3f5e60dbca15c7431d32f83ea
+zk-snark:0x8fb4c3e7291b5f9d2b49e6a8dc35f107b498c3a209cb4ce918e0523895603a5fc7d9ea24b10f5e682c98dcb35c4a28e16dcf86ea321b954e7ca8612c9c895d4a31b58ac97d0e3f5e60dbca15c7431d32f83ea
 ```
 
 ---
