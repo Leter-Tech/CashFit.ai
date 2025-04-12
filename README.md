@@ -346,7 +346,7 @@ The AI models used for exercise verification are transparent and version-control
 
 - **Gamified Motivation System:** By staking money on challenges, users experience a powerful mix of reward-driven dopamine boosts and penalty-driven discipline.
 
-- **Immutable Workout History:** Blockchain-style records provide a tamper-proof, verifiable public ledger of workouts, verifications, and earnings.
+- **Immutable Workout History:** Blockchain-style records provide a tamper-proof, verifiable public ledger of workouts, verifications, challenges, and earnings.
 
 ---
 
