@@ -56,9 +56,9 @@ Staying consistent with fitness is often a battle against procrastination, loss 
 
 > **Access our transparent public verification ledger to audit workout data, challenges, and earnings while maintaining user privacy through cryptographic hashing.**
 
-### **Progress Tracking**  
+### **Verify & Earn**  
 
-> **Monitor your fitness journey with detailed analytics, see your improvements over time, and receive personalized recommendations to enhance performance.**
+> **Spend your free time verifying others' workout submissions and earn instant rewards, while helping ensure accuracy, fairness, and trust across the platform.**
 
 ---
 
