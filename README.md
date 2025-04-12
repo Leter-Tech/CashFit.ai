@@ -326,7 +326,7 @@ The AI models used for exercise verification are transparent and version-control
 
 ### Jumping Jacks
 - Tracks: Wrist and ankle distances
-- Measure: Spread positions
+- Measures: Spread positions
 - Normalized thresholds
 
 ### Mountain Climbers
