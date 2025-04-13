@@ -363,6 +363,20 @@ The AI models used for exercise verification are transparent and version-control
 
 ---
 
+## ⚠️ **Important Note**
+
+- Our app runs the ML model directly in your browser using JavaScript, instead of using a backend server.
+
+- The model is large and takes time to load.
+
+- Workout detection feature might not work until the model has loaded completely.
+
+- Make sure hardware and graphics acceleration are enabled in your browser for the features to work as intended.
+
+- If your device has low processing power, the model may not load properly.
+
+---
+
 ## 🤝 **Contributing**  
 
 Contributions are always welcome! Please follow these steps:
